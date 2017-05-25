@@ -1,5 +1,6 @@
 "use strict";
 
+var assert = require('assert');
 var fs = require('fs');
 var lines = fs.readFileSync('tono.tsv', 'utf8')
                 .trim()
@@ -22,7 +23,7 @@ var rowsobj = rows.map(v => ({
                          num : +v[4],
                          freq : +v[5],
                          disp : +v[6],
-                         register : v[7]
+                         register : v[7] || ''
                        }));
 
 fs.writeFileSync('tono.json', JSON.stringify(rowsobj, null, 1));

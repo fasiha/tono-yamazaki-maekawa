@@ -227,7 +227,8 @@
   ],
   "meaning": "v. say, speak, talk",
   "kanjis": [
-   "言う"
+   "[言;い]う",
+   "[言;ゆ]う"
   ],
   "roumaji": "iu, yuu",
   "num": 19,
@@ -517,7 +518,9 @@
   ],
   "meaning": "pron. I",
   "kanjis": [
-   "私"
+   "[私;わたし]",
+   "[私;わたくし]",
+   "[私;あたし]"
   ],
   "roumaji": "watashi, watakushi, atashi",
   "num": 42,
@@ -594,7 +597,8 @@
   ],
   "meaning": "v. go; come",
   "kanjis": [
-   "行く"
+   "[行;い]く",
+   "[行;ゆ]く"
   ],
   "roumaji": "iku, yuku",
   "num": 48,
@@ -873,8 +877,7 @@
   ],
   "meaning": "i-adj. good",
   "kanjis": [
-   "良い",
-   "いい"
+   "[良;よ]い"
   ],
   "roumaji": "yoi, ii",
   "num": 70,
@@ -1409,8 +1412,8 @@
   ],
   "meaning": "v. hear; listen; listen to, obey",
   "kanjis": [
-   "聞く",
-   "聴く"
+   "[聞;き]く",
+   "[聴;き]く"
   ],
   "roumaji": "kiku",
   "num": 112,
@@ -1515,7 +1518,8 @@
   ],
   "meaning": "n. Japan",
   "kanjis": [
-   "日本"
+   "[日本;にほん]",
+   "[日本;にっぽん]"
   ],
   "roumaji": "nihon, nippon",
   "num": 120,
@@ -2002,7 +2006,8 @@
   ],
   "meaning": "n. everyone; everything",
   "kanjis": [
-   "皆"
+   "[皆;みな]",
+   "[皆;みんな]"
   ],
   "roumaji": "mina, minna",
   "num": 157,
@@ -2166,8 +2171,8 @@
   ],
   "meaning": "n. eye",
   "kanjis": [
-   "目",
-   "眼"
+   "[目;め]",
+   "[眼;め]"
   ],
   "roumaji": "me",
   "num": 169,
@@ -2275,8 +2280,8 @@
   ],
   "meaning": "n. day; sun",
   "kanjis": [
-   "日",
-   "陽"
+   "[日;ひ]",
+   "[陽;ひ]"
   ],
   "roumaji": "hi",
   "num": 177,
@@ -3311,8 +3316,8 @@
   ],
   "meaning": "n. town, city",
   "kanjis": [
-   "町",
-   "街"
+   "[町;まち]",
+   "[街;まち]"
   ],
   "roumaji": "machi",
   "num": 255,
@@ -3738,12 +3743,13 @@
  },
  {
   "readings": [
-   "わたし たち",
-   "わたくし たち"
+   "わたしたち",
+   "わたくしたち"
   ],
   "meaning": "pron. we",
   "kanjis": [
-   "私達"
+   "[私;わたし][達;たち]",
+   "[私;わたくし][達;たち]"
   ],
   "roumaji": "watashi-tachi, watakushi-tachi",
   "num": 287,
@@ -4174,7 +4180,8 @@
   ],
   "meaning": "n. four",
   "kanjis": [
-   "四"
+   "[四;よん]",
+   "[四;し]"
   ],
   "roumaji": "yon, shi",
   "num": 319,
@@ -4983,7 +4990,8 @@
   ],
   "meaning": "v. get, obtain",
   "kanjis": [
-   "得る"
+   "[得;え]る",
+   "[得;う]る"
   ],
   "roumaji": "eru, uru",
   "num": 380,
@@ -5604,7 +5612,8 @@
   ],
   "meaning": "n. Japanese (person)",
   "kanjis": [
-   "日本人"
+   "[日本;にほん][人;じん]",
+   "[日本;にっぽん][人;じん]"
   ],
   "roumaji": "nihon-jin, nippon-jin",
   "num": 425,
@@ -6043,7 +6052,8 @@
   ],
   "meaning": "i-adj. difficult, hard",
   "kanjis": [
-   "難しい"
+   "[難;むずか]しい",
+   "[難;むつか]しい"
   ],
   "roumaji": "muzukashii, mutsukashii",
   "num": 457,
@@ -6618,7 +6628,8 @@
   ],
   "meaning": "n., na-adj. unpleasant, disagreeable",
   "kanjis": [
-   "嫌"
+   "[嫌;いや]",
+   "[嫌;や]"
   ],
   "roumaji": "iya, ya",
   "num": 499,
@@ -9185,7 +9196,7 @@
   ],
   "meaning": "n. thirty minutes",
   "kanjis": [
-   "三十分"
+   "[三;さん][十;じゅ][分;っぷん]"
   ],
   "roumaji": "sanjup-pun, sanjip-pun",
   "num": 687,
@@ -11106,7 +11117,8 @@
   ],
   "meaning": "n. Japanese (language)",
   "kanjis": [
-   "日本語"
+   "[日本;にほん][語;ご]",
+   "[日本;にっぽん][語;ご]"
   ],
   "roumaji": "nihon go, nippon go",
   "num": 828,
@@ -11867,7 +11879,8 @@
   ],
   "meaning": "v. bring about, cause, arise",
   "kanjis": [
-   "生じる"
+   "[生;しょう]じる",
+   "[生;しょう]ずる"
   ],
   "roumaji": "shoujiru, shouzuru",
   "num": 883,
@@ -12842,7 +12855,7 @@
   ],
   "meaning": "n. technique, skill",
   "kanjis": [
-   "技術"
+   "[技;ぎ][術;じゅつ]"
   ],
   "roumaji": "gijutsu, gijitsu",
   "num": 954,
@@ -14973,8 +14986,8 @@
   ],
   "meaning": "v. give birth; produce",
   "kanjis": [
-   "産む",
-   "生む"
+   "[産;う]む",
+   "[生;う]む"
   ],
   "roumaji": "umu",
   "num": 1110,
@@ -15141,8 +15154,8 @@
   ],
   "meaning": "v. answer, respond, accept",
   "kanjis": [
-   "応ずる",
-   "応じる"
+   "[応;おう]ずる",
+   "[応;おう]じる"
   ],
   "roumaji": "ouzuru, oujiru",
   "num": 1122,
@@ -17411,7 +17424,8 @@
   ],
   "meaning": "adv. very, a lot, much",
   "kanjis": [
-   "大分"
+   "[大;だい][分;ぶ]",
+   "[大;だい][分;ぶん]"
   ],
   "roumaji": "daibu, daibun",
   "num": 1289,
@@ -19687,8 +19701,8 @@
   ],
   "meaning": "n. skin, hide, jacket",
   "kanjis": [
-   "皮",
-   "革"
+   "[皮;かわ]",
+   "[革;かわ]"
   ],
   "roumaji": "kawa",
   "num": 1455,
@@ -21991,7 +22005,7 @@
   ],
   "meaning": "n. ten minutes",
   "kanjis": [
-   "十分"
+   "[十;じゅ][分;っぷん]"
   ],
   "roumaji": "jup-pun, jip-pun",
   "num": 1624,
@@ -26295,8 +26309,8 @@
   ],
   "meaning": "n. town, city",
   "kanjis": [
-   "街",
-   "町"
+   "[街;まち]",
+   "[町;まち]"
   ],
   "roumaji": "machi",
   "num": 1941,
@@ -28664,9 +28678,9 @@
   ],
   "meaning": "n. twenty minutes",
   "kanjis": [
-   "二十分"
+   "[二;に][十;じゅ][分;っぷん]"
   ],
-  "roumaji": "nijup-pun, nijip-pun,",
+  "roumaji": "nijup-pun, nijip-pun",
   "num": 2115,
   "freq": 27,
   "disp": 0.84,
@@ -43726,7 +43740,7 @@
   ],
   "meaning": "n. policy, measure",
   "kanjis": [
-   "施策"
+   "[施;し][策;さく]"
   ],
   "roumaji": "shisaku, sesaku",
   "num": 3219,
@@ -46234,12 +46248,12 @@
  },
  {
   "readings": [
-   "かっこう よい",
+   "かっこうよい",
    "かっこいい"
   ],
   "meaning": "i-adj. cool, good-looking",
   "kanjis": [
-   "格好良い"
+   "[格;かっ][好;こう][良;よ]い"
   ],
   "roumaji": "kakkou yoi, kakkoii",
   "num": 3404,
@@ -51686,7 +51700,8 @@
   ],
   "meaning": "na-adj. precise, exact",
   "kanjis": [
-   "的確"
+   "[的;てき][確;かく]",
+   "[的;てっ][確;かく]"
   ],
   "roumaji": "tekikaku, tekkaku",
   "num": 3804,
@@ -54431,7 +54446,7 @@
   ],
   "meaning": "n. physical education, gymnastics",
   "kanjis": [
-   "体育"
+   "[体;たい][育;いく]"
   ],
   "roumaji": "taiiku, taiku",
   "num": 4005,
@@ -59679,12 +59694,13 @@
  },
  {
   "readings": [
-   "けんきゅう じょ",
-   "けんきゅう しょ"
+   "けんきゅうじょ",
+   "けんきゅうしょ"
   ],
   "meaning": "n. research institute, laboratory",
   "kanjis": [
-   "研究所"
+   "[研;けん][究;きゅう][所;じょ]",
+   "[研;けん][究;きゅう][所;しょ]"
   ],
   "roumaji": "kenkyuu-jo, kenkyuu-sho",
   "num": 4390,
@@ -60917,7 +60933,7 @@
   ],
   "meaning": "n. forty minutes",
   "kanjis": [
-   "四十分"
+   "[四;よん][十;じゅ][分;っぷん]"
   ],
   "roumaji": "yonjup-pun, yonjip-pun",
   "num": 4480,
@@ -63023,12 +63039,12 @@
  },
  {
   "readings": [
-   "たいいく かん",
+   "たいいくかん",
    "たいっかん"
   ],
   "meaning": "n. gym",
   "kanjis": [
-   "体育館"
+   "[体;たい][育;いく][館;かん]"
   ],
   "roumaji": "taiiku-kan, taik-kan",
   "num": 4635,
@@ -68009,6 +68025,7 @@
   "roumaji": "maamaa",
   "num": 5000,
   "freq": 9,
-  "disp": 0.84
+  "disp": 0.84,
+  "register": ""
  }
 ]

@@ -4,7 +4,7 @@ This repository is a package for an `npm`/Node.js containing the data in Y. Tono
 
 It contains a Node.js module which imports a JSON file `tono.json` which is generated from `tono.tsv` (a tab-separated file) by the `tsv2json.js` script.
 
-We beg that this repository to be considered fair use.
+The raw dictionary data is the property of Routledge and we beg that our use of this data be considered fair use. The small bits of code in this repository is released into the public domain.
 
 ## Usage
 
@@ -18,7 +18,7 @@ Then, in JavaScript, `var tono = require('tono-yamazaki-maekawa')` will contain 
 
 **English** Tono et al.’s notes in English on meaning, including parts of speech and glosses.
 
-**Kanji** Optional: written form of the word using kanji (this is what’s provided by Tono, et al.). Multiple variants separated by `/`.
+**Kanji** Optional: written form of the word using kanji (this is what’s provided by Tono, et al.). Multiple variants separated by `/`. Sometimes, one kanji may have multiple readings (same word), or the same reading can be produced by different kanji (also same word); for these cases, each written variant is separated by `/` and has furigana encoded in square-brackets like `[kanji;reading]`. Example: 大分 is read `daibu` and `daibun`, so it is listed as `[大;だい][分;ぶ]/[大;だい][分;ぶん]`. If there is no such ambiguity, i.e., one kanji, one reading, furigana is *not* given.
 
 **Roumaji** Tono, et al.’s romanized pronunciation (the `Readings` column was automatically converted from this, so please notify me of errors).
 
