@@ -359,7 +359,7 @@ Readings	English	Kanji	Roumaji	Tono #	Freq. per mil.	Dispersion	Register star
 おぼえる	v. learn, remember, memorize	覚える	oboeru	358	200	0.84	
 とうきょう	n. Tokyo	東京	toukyou	359	200	0.95	
 てある	cp. [describes a state resulting from someone’s action]		te aru	360	200	0.96	
-つずく	v. continue, go on, last	続く	tsuzuku	361	198	1.00	
+つづく	v. continue, go on, last	続く	tsuzuku	361	198	1.00	
 における	cp. in		ni oke ru	362	197	0.47	
 おれ	pron. I (used by male speakers)	俺	ore	363	196	0.81	BK
 うまれる	v. be born	生まれる	umareru	364	196	0.95	
@@ -404,7 +404,7 @@ Readings	English	Kanji	Roumaji	Tono #	Freq. per mil.	Dispersion	Register star
 こんかい	n. this time	今回	konkai	403	176	0.92	
 にかんする	cp. be concerned with, be related to	に関する	ni kansuru	404	175	0.55	
 じんせい	n. life	人生	jinsei	405	175	0.84	
-とうり	n. street; as	通り	touri	406	174	0.88	
+とおり	n. street; as	通り	touri	406	174	0.88	
 ないよう	n. contents	内容	naiyou	407	174	0.89	
 テレビ	n. television, TV		terebi	408	174	0.87	
 けいけん（する）	n. experience v. experience	経験（する）	keiken(suru)	409	173	0.95	
@@ -482,8 +482,8 @@ Readings	English	Kanji	Roumaji	Tono #	Freq. per mil.	Dispersion	Register star
 ちいさな	adn. small, little, tiny	小さな	chiisana	481	147	0.93	
 ひらく	v. open; bloom; hold	開く	hiraku	482	146	0.94	
 むじんとう	n. uninhabited island	無人島	mujin-tou	483	146	0.07	SP
-つずける	v. continue, keep up, go on	続ける	tsuzukeru	484	146	0.99	
-じゅうよお	na-adj. important	重要	juuyoo	485	145	0.83	
+つづける	v. continue, keep up, go on	続ける	tsuzukeru	484	146	0.99	
+じゅうよう	na-adj. important	重要	juuyoo	485	145	0.83	
 といった	cp. like, such as		to it-ta	486	145	0.95	
 あたる	v. hit, bump, touch; guess right, win	当たる	ataru	487	144	0.99	
 ちかい	i-adj. near, close	近い	chikai	488	144	0.97	
@@ -526,7 +526,7 @@ Readings	English	Kanji	Roumaji	Tono #	Freq. per mil.	Dispersion	Register star
 ちゅうしん	n. center	中心	chuushin	525	131	0.87	
 おこる	v. happen, occur, take place	起こる	okoru	526	131	0.97	
 われわれ	pron. we	我々	wareware	527	130	0.88	
-（お） かあ さん	n. mother, Mom	（お）母さん	(o)-kaa-san	528	130	0.84	
+（お）かあ さん	n. mother, Mom	（お）母さん	(o)-kaa-san	528	130	0.84	
 たてる	v. stand, set up, put up	立てる	tateru	529	129	0.97	
 もっとも	adv. most, extremely	最も	mottomo	530	128	0.87	
 いろ	n. color	色	iro	531	128	0.94	
@@ -642,7 +642,7 @@ Readings	English	Kanji	Roumaji	Tono #	Freq. per mil.	Dispersion	Register star
 ぞ	p. disc. EMPHASIS		zo	641	102	0.89	
 ほしい	i-adj. want, desire		hoshii	642	102	0.82	
 しんぶん	n. newspaper	新聞	shinbun	643	101	0.89	
-きずく	v. notice, become aware	気付く	kizuku	644	101	0.89	
+きづく	v. notice, become aware	気付く	kizuku	644	101	0.89	
 うた	n. song	歌	uta	645	101	0.94	
 あける	v. open	開ける	akeru	646	101	0.92	
 たがい	n. each other	互い	tagai	647	101	0.97	
@@ -697,7 +697,7 @@ Readings	English	Kanji	Roumaji	Tono #	Freq. per mil.	Dispersion	Register star
 ものすごい	i-adj. terrible adv. terribly		monosugoi	696	94	0.70	
 あう	v. fit, suit, agree	合う	au	697	94	0.95	
 すむ	v. end, finish	済む	sumu	698	94	0.95	
-とうる	v. pass, go along	通る	touru	699	94	0.92	
+とおる	v. pass, go along	通る	touru	699	94	0.92	
 おとな	n. adult	大人	otona	700	94	0.89	
 きたい（する）	n. expectation v. expect	期待（する）	kitai(suru)	701	94	0.97	
 じじつ	n. fact, actuality	事実	jijitsu	702	93	0.92	
@@ -771,11 +771,11 @@ Readings	English	Kanji	Roumaji	Tono #	Freq. per mil.	Dispersion	Register star
 てあげる	cp. do something for somebody		te ageru	770	84	0.00	SP
 ふんいき	n. atmosphere, ambience	雰囲気	fun’iki	771	84	0.89	
 たちば	n. position, standpoint, situation	立場	tachiba	772	84	0.90	
-もとずく	v. be based	基づく	motozuku	773	84	0.53	
+もとづく	v. be based	基づく	motozuku	773	84	0.53	
 ま	n. time, interval; space	間	ma	774	84	0.94	
 ことがある	cp. have done; there are sometimes		koto ga aru	775	84	0.82	
 いたい	i-adj. painful, hurt	痛い	itai	776	83	0.78	
-（お） とう さん	n. father	（お）父さん	(o)-tou-san	777	83	0.87	
+（お）とう さん	n. father	（お）父さん	(o)-tou-san	777	83	0.87	
 あたり	n. area around	辺り	atari	778	83	0.94	
 てやる	cp. do something for somebody/something		te yaru	779	83	0.96	
 しょうらい	n. future	将来	shourai	780	82	0.96	
@@ -875,7 +875,7 @@ Readings	English	Kanji	Roumaji	Tono #	Freq. per mil.	Dispersion	Register star
 じゅう いち がつ	n. November	十一月	juu ichi gatsu	874	73	0.73	
 あらた	na-adj. another	新た	arata	875	73	0.82	
 ひこうき	n. airplane	飛行機	hikouki	876	73	0.75	
-（お） ばあ さん	n. old lady; grandmother	（お）婆さん	(o)-baa-san	877	73	0.75	
+（お）ばあ さん	n. old lady; grandmother	（お）婆さん	(o)-baa-san	877	73	0.75	
 いたる	v. lead to, get	至る	itaru	878	73	0.90	
 ごぜん	n. morning, a.m.	午前	gozen	879	73	0.26	NM
 そだてる	v. bring up, train, develop	育てる	sodateru	880	73	0.95	
@@ -924,7 +924,7 @@ Readings	English	Kanji	Roumaji	Tono #	Freq. per mil.	Dispersion	Register star
 かいがい	n. overseas, abroad, foreign	海外	kaigai	923	69	0.97	
 きょういく（する）	n. education v. educate	教育（する）	kyouiku(suru)	924	69	0.88	
 そうぞう（する）	n. imagination, image v. imagine	想像（する）	souzou(suru)	925	69	0.92	
-じつ わ	adv. actually, in fact	実は	jitsu wa	926	69	0.85	
+じつ は	adv. actually, in fact	実は	jitsu wa	926	69	0.85	
 ゆるす	v. allow, permit, forgive	許す	yurusu	927	69	0.96	
 ひょう	n. table, chart	表	hyou	928	68	0.67	
 ぶんか	n. culture	文化	bunka	929	68	0.94	
@@ -1183,7 +1183,7 @@ Readings	English	Kanji	Roumaji	Tono #	Freq. per mil.	Dispersion	Register star
 データ	n. data		deeta	1182	52	0.94	
 やく	n. part, role, duty	役	yaku	1183	52	0.94	
 のびる	v. grow, stretch, extend	伸びる	nobiru	1184	52	1.00	
-つうじょお	adv., n. normally, ordinary, regular	通常	tsuujoo	1185	52	0.99	
+つうじょう	adv., n. normally, ordinary, regular	通常	tsuujoo	1185	52	0.99	
 ピアノ	n. piano		piano	1186	52	0.77	
 こうい	n. action; motion; behavior	行為	koui	1187	52	0.86	
 なやむ	v. be worried, be troubled, suffer	悩む	nayamu	1188	52	0.86	
@@ -1304,7 +1304,7 @@ Readings	English	Kanji	Roumaji	Tono #	Freq. per mil.	Dispersion	Register star
 に かい	n. twice	二回	ni kai	1303	46	0.93	
 ちりょう（する）	n. cure, treatment, therapy v. treat, cure	治療（する）	chiryou(suru)	1304	46	0.95	
 ひる	n. noon; daytime	昼	hiru	1305	46	0.83	
-おつうじて	cp. throughout, across, through	を通じて	o tsuuji te	1306	46	0.80	
+をつうじて	cp. throughout, across, through	を通じて	o tsuuji te	1306	46	0.80	
 せっかく	adv. with effort, take the trouble to		sekkaku	1307	46	0.95	
 あかい	i-adj. red	赤い	akai	1308	46	0.89	
 ひかく てき	na-adj. comparative, relative	比較的	hikaku-teki	1309	46	0.96	
@@ -1314,7 +1314,7 @@ Readings	English	Kanji	Roumaji	Tono #	Freq. per mil.	Dispersion	Register star
 みりょく	n. charm, attraction, appeal	魅力	miryoku	1313	46	0.85	
 げんば	n. field, scene, spot	現場	genba	1314	46	0.99	
 どうぐ	n. tool, instrument	道具	dougu	1315	46	0.84	
-とうく	adv. far, remote n. distance	遠く	touku	1316	46	0.88	
+とおく	adv. far, remote n. distance	遠く	touku	1316	46	0.88	
 ちゅうがく	n. junior high school	中学	chuugaku	1317	46	0.84	
 むら	n. village	村	mura	1318	46	0.90	
 システム	n. system		shisutemu	1319	46	0.97	
@@ -1447,7 +1447,7 @@ Readings	English	Kanji	Roumaji	Tono #	Freq. per mil.	Dispersion	Register star
 こじんてき	na-adj. private, personal, individual	個人的	kojin-teki	1446	42	0.88	
 かつやく（する）	n. activity, action v. be active, flourish	活躍（する）	katsuyaku(suru)	1447	42	0.90	
 しけん（する）	n. exam, test, trial v. examine	試験（する）	shiken(suru)	1448	42	0.87	
-みじか	na-adj. familiar, close	身近	mijika	1449	42	0.91	
+みぢか	na-adj. familiar, close	身近	mijika	1449	42	0.91	
 くるしい	i-adj. painful, hard, difficult	苦しい	kurushii	1450	41	0.94	
 はずかしい	i-adj. ashamed, embarrassed	恥ずかしい	hazukashii	1451	41	0.85	
 きん	n. gold, money	金	kin	1452	41	0.26	NM
@@ -1817,7 +1817,7 @@ Readings	English	Kanji	Roumaji	Tono #	Freq. per mil.	Dispersion	Register star
 よ ねん	n. four years	四年	yo nen	1816	32	0.94	
 むし（する）	n., v. neglect, ignore	無視（する）	mushi(suru)	1817	32	0.93	
 いっき	adv., n. at a stretch, in one gulp	一気	ikki	1818	32	0.91	
-てつずき	n. procedure, formalities	手続き	tetsuzuki	1819	32	0.88	
+てつづき	n. procedure, formalities	手続き	tetsuzuki	1819	32	0.88	
 なみ	n. wave	波	nami	1820	32	0.98	
 なか	n. relations, terms	仲	naka	1821	32	0.86	
 ちゅうがく せい	n. junior high school student	中学生	chuugaku-sei	1822	32	0.94	
@@ -1919,7 +1919,7 @@ CM	n. commercial		shiiemu	1868	31	0.68
 かてい	n. process	過程	katei	1918	30	0.88	
 しくみ	n. structure, mechanism	仕組み	shikumi	1919	30	0.88	
 あわてる	v. be flustered, be in a hurry	慌てる	awateru	1920	30	0.84	
-ざるおえない	cp. have to, cannot help doing	ざるを得ない	zaru o e nai	1921	30	0.88	
+ざるをえない	cp. have to, cannot help doing	ざるを得ない	zaru o e nai	1921	30	0.88	
 そち（する）	n. measure v. take measures	措置（する）	sochi(suru)	1922	30	0.32	OF
 あぶら	n. oil	油	abura	1923	30	0.98	
 はんとし	n. half a year	半年	hantoshi	1924	30	0.87	
@@ -1999,7 +1999,7 @@ CM	n. commercial		shiiemu	1868	31	0.68
 きょうかい	n. church	教会	kyoukai	1998	29	0.84	
 こうげき（する）	n. attack v. attack	攻撃（する）	kougeki(suru)	1999	29	0.92	
 ご じ	n. five o’clock	五時	go ji	2000	29	0.49	NM
-（お） べんとう	n. boxed lunch	（お）弁当	(o)-bentou	2001	29	0.83	
+（お）べんとう	n. boxed lunch	（お）弁当	(o)-bentou	2001	29	0.83	
 かた たち	n. people (honorific)	方達	kata-tachi	2002	29	0.18	SP
 ひさしぶり	n. after a long time	久しぶり	hisashiburi	2003	29	0.68	
 とたん	n. as soon as		totan	2004	29	0.85	
@@ -2116,7 +2116,7 @@ CM	n. commercial		shiiemu	1868	31	0.68
 にじゅっぷん/にじっぷん/	n. twenty minutes	[二;に][十;じゅ][分;っぷん]	nijup-pun, nijip-pun	2115	27	0.84	
 モデル	n. model		moderu	2116	27	0.90	
 よけい	na-adj. additional, extra	余計	yokei	2117	27	0.92	
-ひきつずく	v. continue; follow	引き続く	hikitsuzuku	2118	27	0.50	OF
+ひきつづく	v. continue; follow	引き続く	hikitsuzuku	2118	27	0.50	OF
 うつす	v. move, transfer, shift	移す	utsusu	2119	27	0.97	
 ぼしゅう（する）	n. recruitment v. recruit	募集（する）	boshuu(suru)	2120	27	0.52	NM
 りんご	n. apple		ringo	2121	27	0.91	
@@ -2221,7 +2221,7 @@ CM	n. commercial		shiiemu	1868	31	0.68
 ひがし	n. east	東	higashi	2220	25	0.90	
 しゅじんこう	n. hero, heroine	主人公	shujin-kou	2221	25	0.90	
 もっとも	conj. though, although		mottomo	2222	25	0.78	
-あめりか じん	n. American (person)	アメリカ人	amerika-jin	2223	25	0.82	
+アメリカじん	n. American (person)	アメリカ人	amerika-jin	2223	25	0.82	
 テスト（する）	n. test v. test		tesuto(suru)	2224	25	0.93	
 こうこう じだい	n. high school days	高校時代	koukou jidai	2225	25	0.59	
 まんぞく（する）	n. satisfaction v. be satisfied	満足（する）	manzoku(suru)	2226	25	0.93	
@@ -2312,7 +2312,7 @@ CM	n. commercial		shiiemu	1868	31	0.68
 にがて	na-adj. not good at, weak point	苦手	nigate	2311	24	0.82	
 スタイル	n. style, body, figure		sutairu	2312	24	0.80	
 テント	n. tent		tento	2313	24	0.69	
-ゆだや じん	n. Jew	ユダヤ人	yudaya-jin	2314	24	0.61	
+ユダヤじん	n. Jew	ユダヤ人	yudaya-jin	2314	24	0.61	
 ぬし	n. head, master	主	nushi	2315	24	0.75	
 いし	n. will, willpower	意志	ishi	2316	24	0.88	
 ようい	na-adj. easy	容易	youi	2317	24	0.83	
@@ -2410,7 +2410,7 @@ CM	n. commercial		shiiemu	1868	31	0.68
 にわたって	cp. throughout, over a period of		ni watat-te	2409	23	0.85	
 ろうか	n. corridor	廊下	rouka	2410	23	0.81	
 ようせい	n. request	要請	yousei	2411	23	0.56	
-（お） ねえ さん	n. elder sister	（お）姉さん	(o)-nee-san	2412	23	0.59	
+（お）ねえ さん	n. elder sister	（お）姉さん	(o)-nee-san	2412	23	0.59	
 プログラム	n. program		puroguramu	2413	23	0.96	
 しょくぎょう	n. occupation, trade, profession	職業	shokugyou	2414	23	0.99	
 げんかい	n. limit, boundary	限界	genkai	2415	23	0.98	
@@ -2741,7 +2741,7 @@ IT	n. IT		aitii	2710	19	0.84
 ほんや	n. bookshop	本屋	hon-ya	2740	19	0.72	
 あす	n. tomorrow	明日	asu	2741	19	0.69	
 はやめ	n. early	早め	hayame	2742	19	0.85	
-どくじ	na-adj. peculiar, unique; personal	独特	dokuji	2743	19	0.93	
+どくじ	na-adj. peculiar, unique; personal	独自	dokuji	2743	19	0.93	
 こんや	n. tonight	今夜	kon’ya	2744	19	0.65	
 ゆえ	n. reason; therefore		yue	2745	19	0.79	
 リズム	n. rhythm		rizumu	2746	19	0.97	
@@ -2759,7 +2759,7 @@ IT	n. IT		aitii	2710	19	0.84
 みまもる	v. watch, observe	見守る	mimamoru	2758	19	0.96	
 ふべん	n. inconvenience na-adj. inconvenient	不便	fuben	2759	19	0.73	
 えいよう	n. nutrition	栄養	eiyou	2760	19	0.96	
-ふらんす ご	n. French language	フランス語	huransu go	2761	19	0.76	
+フランスご	n. French language	フランス語	huransu go	2761	19	0.76	
 アクセス	n. access		akusesu	2762	19	0.95	
 PC	n. personal computer		piishii	2763	19	0.35	WB
 ふこう	na-adj. unhappiness, misfortune	不幸	fukou	2764	19	0.94	
@@ -2797,13 +2797,13 @@ PC	n. personal computer		piishii	2763	19	0.35	WB
 プレー	n. play		puree	2796	19	0.84	
 しんぽ（する）	n. progress, advance v. progress, advance	進歩（する）	shinpo(suru)	2797	19	0.95	
 ひゃく	num. hundred	百	hyaku	2798	19	0.87	
-（お） しり	n. hips	（お）尻	(o)-shiri	2799	19	0.86	
+（お）しり	n. hips	（お）尻	(o)-shiri	2799	19	0.86	
 よごれる	v. dirty, soil	汚れる	yogoreru	2800	19	0.93	
 さんぎょう	n. industry	産業	sangyou	2801	19	0.72	
 ぜんじつ	n. eve, previous day	前日	zenjitsu	2802	19	0.94	
 きゅうしゅう（する）	n. absorption, assimilation v. absorb, assimilate	吸収（する）	kyuushuu(suru)	2803	19	0.98	
 おどろき	n. surprise, amazement	驚き	odoroki	2804	19	0.89	
-それん	n. Soviet Union	ソ連	soren	2805	19	0.64	
+ソれん	n. Soviet Union	ソ連	soren	2805	19	0.64	
 かなしみ	n. sadness, grief	悲しみ	kanashimi	2806	19	0.90	
 じゅう いち にち	n. eleventh (date); eleven days	十一日	juu ichi nichi	2807	19	0.47	NM
 さいてい	n. minimum, lowest	最低	saitei	2808	19	0.96	
@@ -2909,7 +2909,7 @@ PC	n. personal computer		piishii	2763	19	0.35	WB
 オークション	n. auction		ookushon	2908	18	0.34	WB
 にじゅう いち にち	n. twenty-first (date); twenty-one days	二十一日	nijuu ichi nichi	2909	18	0.52	
 ほら	interj. Look!		hora	2910	18	0.83	
-おとおして	cp. according to; through	を通して	o tooshi te	2911	18	0.00	SP
+をとおして	cp. according to; through	を通して	o tooshi te	2911	18	0.00	SP
 ぶき	n. weapon	武器	buki	2912	18	0.97	
 とない	n. in the city	都内	tonai	2913	18	0.83	
 いはん（する）	n. violation v. violate	違反（する）	ihan(suru)	2914	18	0.58	
@@ -3151,7 +3151,7 @@ PC	n. personal computer		piishii	2763	19	0.35	WB
 あせる	v. be in a hurry; be impatient; be eager	焦る	aseru	3150	16	0.82	
 ろんぶん	n. essay, thesis, paper, dissertation	論文	ronbun	3151	16	0.90	
 タイミング	n. timing		taimingu	3152	16	0.89	
-ひゃく ぱあせんと	n. one hundred percent	百パーセント	hyaku paasento	3153	16	0.98	
+ひゃくパーセント	n. one hundred percent	百パーセント	hyaku paasento	3153	16	0.98	
 しゅうまつ	n. weekend	週末	shuumatsu	3154	16	0.81	
 しゅっぴんしゃ	n. exhibitor	出品者	shuppin-sha	3155	16	0.11	WB
 にじゅうろく にち	n. twenty-sixth (date); twenty-six days	二十六日	nijuuroku nichi	3156	16	0.47	NM
@@ -3227,7 +3227,7 @@ PC	n. personal computer		piishii	2763	19	0.35	WB
 ちょうしょく	n. breakfast	朝食	choushoku	3226	16	0.88	
 しんだん（する）	n. diagnosis v. diagnose	診断（する）	shindan(suru)	3227	16	0.93	
 ごめん	n. pardon, sorry, [to decline]	ご免	gomen	3228	16	0.76	
-かんずめ	n. canned food	缶詰	kanzume	3229	16	0.81	
+かんづめ	n. canned food	缶詰	kanzume	3229	16	0.81	
 こしょう	n. pepper		koshou	3230	16	0.91	
 つぶれる	v. be crushed; go bankrupt; become useless	潰れる	tsubureru	3231	16	0.94	
 かいがん	n. seashore, seaside	海岸	kaigan	3232	16	0.96	
@@ -3279,7 +3279,7 @@ PC	n. personal computer		piishii	2763	19	0.35	WB
 このよ	n. this world	この世	konoyo	3278	15	0.62	
 かたて	n. one hand	片手	katate	3279	15	0.83	
 サイン（する）	n. signature, autograph v. sign		sain(suru)	3280	15	0.91	
-きりすと きょう	n. Christianity	キリスト教	kirisuto-kyou	3281	15	0.89	
+キリストきょう	n. Christianity	キリスト教	kirisuto-kyou	3281	15	0.89	
 としより	n. old people, the elderly	年寄り	toshiyori	3282	15	0.95	
 きがる	na-adj. light-hearted, feel free	気軽	kigaru	3283	15	0.75	
 なく	v. cry, sing	鳴く	naku	3284	15	0.87	
@@ -3318,7 +3318,7 @@ PC	n. personal computer		piishii	2763	19	0.35	WB
 らくさつ（する）	n. successful bid v. make a successful bid	落札（する）	rakusatsu(suru)	3317	15	0.22	WB
 しゅつじょう（する）	n. participation v. participate	出場（する）	shutsujou(suru)	3318	15	0.67	
 だます	v. cheat, trick, deceive		damasu	3319	15	0.91	
-かたずける	v. put in order, tidy; clear away; finish	片付ける	katazukeru	3320	15	0.89	
+かたづける	v. put in order, tidy; clear away; finish	片付ける	katazukeru	3320	15	0.89	
 くみあわせる	v. combine, put together, match	組み合わせる	kumiawaseru	3321	15	0.91	
 むろん	adv. of course		muron	3322	15	0.70	
 こよう（する）	n. employment v. employ	雇用（する）	koyou(suru)	3323	15	0.68	
@@ -3431,7 +3431,7 @@ OS	n. operating system		ooesu	3396	15	0.76
 さいに	p. when	際に	sai ni	3430	15	0.84	
 めった	na-adj. rash, thoughtless; seldom	滅多	metta	3431	15	0.87	
 きかん	n. engine; organization; facilities	機関	kikan	3432	15	0.69	
-てずくり	n. handmade, homemade	手作り	tezukuri	3433	15	0.84	
+てづくり	n. handmade, homemade	手作り	tezukuri	3433	15	0.84	
 ていじ（する）	n. presentation v. present	提示（する）	teiji(suru)	3434	15	0.87	
 エジプト	n. Egypt		ejiputo	3435	15	0.88	
 したまち	n. Shitamachi (place name); traditional working-class neighborhood	下町	shitamachi	3436	15	0.58	
@@ -3737,7 +3737,7 @@ DVD	n. DVD		diibuidii	3703	13	0.50	WB
 さんじゅう だい	n. thirties	三十代	sanjuu dai	3736	13	0.92	
 バック（する）	n. back, background v. reverse, back		bakku(suru)	3737	13	0.85	
 いっせい	n. all at once	一斉	issei	3738	13	0.94	
-（お） ぼん	n. Bon Festival, Obon	お盆	(o)-bon	3739	13	0.91	
+（お）ぼん	n. Bon Festival, Obon	お盆	(o)-bon	3739	13	0.91	
 しんさ（する）	n. examination v. examine	審査（する）	shinsa(suru)	3740	13	0.85	
 ゆとり	n. have something to spare		yutori	3741	13	0.94	
 うちこむ	v. devote oneself	打ち込む	uchikomu	3742	13	0.93	
