@@ -1,0 +1,14 @@
+# 3.1.0
+
+I forgot to convert the 3.0.0 TSV to JSON. Sorry! If you were using the TSV
+data, this update is transparent to you. If you were using JSON, you will
+finally get the 3.0.0 changes.
+
+# 3.0.0
+
+Whitespace removed from all `readings` fields.
+
+Furthermore, corrected numerous `readings` errors caused by automatic
+roumaji-to-hiragana conversion. Mainly these are ず->づ, う->お (i.e.,
+とうり->とおり), お->を, etc.
+
